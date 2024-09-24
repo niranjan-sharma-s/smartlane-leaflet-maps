@@ -1,0 +1,30 @@
+.sideBar {
+  background-color: #f8f9fa;
+  border-right: 1px solid #2a323a;
+  width: 150px;
+  overflow: auto;
+  transition: all 0.3s ease;
+
+  @media (max-width: 768px) {
+    width: 100%;
+    position: absolute;
+    z-index: 1000;
+    height: auto;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    li {
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+
+      &:hover {
+        background-color: #4b7aa1;
+        color: white;
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Berlin",
+    "description": "The capital of Germany, known for its cultural heritage and modern landmarks.",
+    "lat": 52.52,
+    "lng": 13.405,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Berlin"
+  },
+  {
+    "id": 2,
+    "name": "Munich",
+    "description": "A city in Bavaria, famous for its annual Oktoberfest and beer halls.",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Munich"
+  },
+  {
+    "id": 3,
+    "name": "Cologne",
+    "description": "A 2,000-year-old city spanning the Rhine River in western Germany.",
+    "lat": 50.9375,
+    "lng": 6.9603,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Cologne"
+  },
+  {
+    "id": 4,
+    "name": "Hamburg",
+    "description": "A major port city in northern Germany, connected to the North Sea by the Elbe River.",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Hamburg"
+  },
+  {
+    "id": 5,
+    "name": "Frankfurt",
+    "description": "A central German city on the river Main, a major financial hub.",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Frankfurt"
+  },
+  {
+    "id": 6,
+    "name": "Stuttgart",
+    "description": "The capital of southwest Germany’s Baden-Württemberg state, known for its automotive industry.",
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Stuttgart"
+  },
+  {
+    "id": 7,
+    "name": "Düsseldorf",
+    "description": "The capital of North Rhine-Westphalia, known for its fashion industry and art scene.",
+    "lat": 51.2277,
+    "lng": 6.7735,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf"
+  },
+  {
+    "id": 8,
+    "name": "Leipzig",
+    "description": "A city in eastern Germany known for its vibrant cultural scene and historic significance.",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Leipzig"
+  },
+  {
+    "id": 9,
+    "name": "Nuremberg",
+    "description": "Famous for its medieval architecture and historical significance in World War II.",
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Nuremberg"
+  },
+  {
+    "id": 10,
+    "name": "Bremen",
+    "description": "Known for its role in the Hanseatic League and its UNESCO-listed town hall.",
+    "lat": 53.0793,
+    "lng": 8.8017,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Bremen"
+  },
+  {
+    "id": 11,
+    "name": "Dresden",
+    "description": "Famous for its reconstructed historic center and art treasures.",
+    "lat": 51.0509,
+    "lng": 13.7382,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Dresden"
+  },
+  {
+    "id": 12,
+    "name": "Freiburg",
+    "description": "A city in the Black Forest known for its medieval minster and eco-friendly policies.",
+    "lat": 47.9929,
+    "lng": 7.8421,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau"
+  },
+  {
+    "id": 13,
+    "name": "Heidelberg",
+    "description": "Home to Germany's oldest university and a picturesque old town.",
+    "lat": 49.3983,
+    "lng": 8.6722,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Heidelberg"
+  },
+  {
+    "id": 14,
+    "name": "Karlsruhe",
+    "description": "Known for its grid-like city layout and as a major center of technology.",
+    "lat": 49.0069,
+    "lng": 8.4037,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Karlsruhe"
+  },
+  {
+    "id": 15,
+    "name": "Augsburg",
+    "description": "One of Germany's oldest cities, known for its Renaissance architecture.",
+    "lat": 48.4011,
+    "lng": 10.8932,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/Augsburg"
+  },
+  {
+    "id": 16,
+    "name": "Tübingen",
+    "description": "Known for its medieval old town and as a hub for education and research.",
+    "lat": 48.5205,
+    "lng": 9.0596,
+    "moreInfoLink": "https://en.wikipedia.org/wiki/T%C3%BCbingen"
+  }
+]

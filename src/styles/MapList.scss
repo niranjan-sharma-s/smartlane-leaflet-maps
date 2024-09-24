@@ -1,0 +1,66 @@
+.mapContainer {
+  height: 90vh;
+  width: 100%;
+  position: relative;
+
+  .leafletContainer {
+    height: 90vh; // Ensure leaflet takes full height
+  }
+
+  .leafletPopup {
+    h3 {
+      margin: 0;
+      font-size: 1.2em;
+    }
+
+    p {
+      margin: 5px 0;
+      color: #555;
+    }
+
+    a {
+      color: #4b7aa1;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    height: 80vh; /* Adjust height for smaller screens */
+  }
+
+  @media (max-width: 480px) {
+    height: 70vh; /* Adjust height for mobile devices */
+  }
+}
+
+.custom-zoom-control,
+.layer-toggle-control {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  z-index: 1000;
+
+  button {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 16px;
+
+    &:hover {
+      background-color: #f0f0f0;
+    }
+
+    &:disabled {
+      background-color: #e0e0e0;
+      cursor: not-allowed;
+    }
+  }
+}

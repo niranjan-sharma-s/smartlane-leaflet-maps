@@ -1,0 +1,32 @@
+.searchBar {
+  display: flex;
+  justify-content: center;
+  padding: 6px;
+  background-color: #4b7aa1;
+  border-bottom: 1px solid #2a323a;
+
+  input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #2a323a;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.3s;
+
+    &::placeholder {
+      color: #6c757d;
+      opacity: 1;
+    }
+
+    &:focus {
+      border-color: #021c39;
+      box-shadow: 0 0 5px rgba(195, 224, 255, 0.5);
+    }
+
+    @media (max-width: 768px) {
+      max-width: 100%;
+    }
+  }
+}
